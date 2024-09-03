@@ -34,7 +34,7 @@ The cleaning process addressed the following issues in the raw sales data:
 | Outliers Flagged | ~[See report] |
 | Data Quality Score | ~[See report] |
 
-> **Note:** Exact figures are documented in the Excel report.
+> **Note:** Exact figures are documented in the Excel report
 
 ## Methodology
 
